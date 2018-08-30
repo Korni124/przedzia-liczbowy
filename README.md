@@ -1,0 +1,1 @@
+# przedzia-liczbowy
