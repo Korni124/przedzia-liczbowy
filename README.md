@@ -1,1 +1,1 @@
-# przedzia-liczbowy
+# przedział-liczbowy
